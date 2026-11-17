@@ -70,7 +70,7 @@ Open `http://localhost:3000` in your web browser.
 
 ---
 
-## 🧪 Test Suite Execution
+##  Test Suite Execution
 ```bash
 pytest backend/tests -v
 ```
